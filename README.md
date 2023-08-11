@@ -5,7 +5,7 @@ DATA MINING TUBERKULOSIS PADA ANAK DENGAN TEKNIK CLUSTERING DAN ASOSIASI
 First, clone this repository:
 
 ```bash
-git clone https://github.com/Alfaalputra/asosiasi.git
+git clone https://github.com/Alfaalputra/tbc.git
 ```
 
 Then install all the required packages:
